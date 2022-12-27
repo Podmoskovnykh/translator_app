@@ -9,7 +9,6 @@ import android.os.Bundle;
 import android.speech.RecognizerIntent;
 import android.speech.tts.TextToSpeech;
 import android.view.View;
-//import android.widget.Adapter;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
@@ -30,7 +29,6 @@ import com.google.firebase.ml.naturallanguage.translate.FirebaseTranslatorOption
 import android.widget.Spinner;
 import android.widget.Toast;
 
-//import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Locale;
 
